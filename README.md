@@ -9,7 +9,7 @@ This assignment will give you experience on the use of:
 3. The float(), int(), round(), print(), and input()functions
 4. Importing a Python module
 
-Click this link to accesss and accept the assignment: https://classroom.github.com/a/usvjo0H7 
+Click this link to accept the assignment: https://classroom.github.com/a/usvjo0H7 
 
 **Question 1**
 
