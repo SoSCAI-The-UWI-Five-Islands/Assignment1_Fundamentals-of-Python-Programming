@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "Question 1 Test",
-      "run": "python3 -m unittest Question1_test.py",
+      "run": "python3 -m unittest Question1_Test.py",
       "input": "",
       "output": "",
       "timeout": 10,
@@ -18,7 +18,7 @@
     },
     {
       "name": "Question 3 Test",
-      "run": "python3 -m unittest Question3_test.py",
+      "run": "python3 -m unittest Test_Question3.py",
       "input": "",
       "output": "",
       "timeout": 10,
@@ -26,7 +26,7 @@
     },
     {
       "name": "Question 4 Test",
-      "run": "python3 -m unittest test_Question4.py",
+      "run": "python3 -m unittest Test_Question4.py",
       "input": "",
       "output": "",
       "timeout": 10,
@@ -34,7 +34,7 @@
     },
     {
       "name": "Question 5 Test",
-      "run": "python3 -m unittest test_Question5.py",
+      "run": "python3 -m unittest Test_Question5.py",
       "input": "",
       "output": "",
       "timeout": 10,
