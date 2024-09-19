@@ -55,6 +55,7 @@ def test_garden_requirements(capfd):
     assert "Total fill for the garden: 42.8 cubic yards" in output_lines
 
 def test_small_garden_requirements(capfd):
+    import Question1
     # Patch input to simulate user input
     inputs = iter([8, 1.5, 0.5, 0.25])
 
