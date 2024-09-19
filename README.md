@@ -76,7 +76,7 @@ Enter an integer greater than 2: 20
 
 **Question 3**
 
-The factorial of n (written n!) is the product of the integers between 1 and n. Thus 4! = 1*2*3*4 = 24. By definition, 0! = 1. Factorial is not defined for negative numbers.
+The factorial of n (written n!) is the product of the integers between 1 and n. Thus 4! = 1 * 2 * 3 * 4 = 24. By definition, 0! = 1. Factorial is not defined for negative numbers.
 
 (a) Write a program that asks the user for a non-negative integer and computes and prints the factorial of that integer. You'll need a while loop to do most of the work—this is a lot like computing a sum, but it's a product instead. And you'll need to think about what should happen if the user enters 0.
 
