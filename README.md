@@ -46,19 +46,28 @@ Enter depth of fill (feet): 0.8333
 Requirements
 
 Plants for each semicircle garden: 39
+
 Plants for the circle garden: 78
+
 Total plants for garden: 234
+
 Soil for each semicircle garden: 0.3 cubic yards
+
 Soil for the circle garden: 0.6 cubic yards
+
 Total soil for the garden: 1.8 cubic yards
+
 Total fill for the garden: 1.3 cubic yards
 
 **Question 2**
 
 Create a program that prompts for a positive number greater than 2 (check this condition), then keeps taking the square root of this number until the square root is less than 2. Print the value each time the square root is taken, along with the number of times the operation has been completed. For example:
 Enter an integer greater than 2: 20
+
 1: 4.472
+
 2: 2.115
+
 3: 1.454
 
 **Question 3**
