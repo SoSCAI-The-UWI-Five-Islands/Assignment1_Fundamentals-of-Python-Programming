@@ -9,6 +9,8 @@ This assignment will give you experience on the use of:
 3. The float(), int(), round(), print(), and input()functions
 4. Importing a Python module
 
+Click this link to accesss and accept the assignment: https://classroom.github.com/a/usvjo0H7 
+
 **Question 1**
 
 Programs are good at performing routine mathematical calculations. By way of illustration, you will write a program to calculate the materials needed for an ornamental garden according to the design below. In this design, the blue areas represent flowerbeds and the yellow areas are filled with stone, mulch, or other fill material. The garden is a perfect square. The four outer flowerbeds are congruent semicircles and the central flowerbed is a perfect circle.
