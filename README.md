@@ -1,6 +1,6 @@
 # Assignment1_Fundamentals-of-Python-Programming
 
-**#Fundamentals of Programming**
+**# Fundamentals of Programming**
 
 This assignment will give you experience on the use of:
 
@@ -10,6 +10,7 @@ This assignment will give you experience on the use of:
 4. Importing a Python module
 
 **Question 1**
+
 Programs are good at performing routine mathematical calculations. By way of illustration, you will write a program to calculate the materials needed for an ornamental garden according to the design below. In this design, the blue areas represent flowerbeds and the yellow areas are filled with stone, mulch, or other fill material. The garden is a perfect square. The four outer flowerbeds are congruent semicircles and the central flowerbed is a perfect circle.
 Project Description / Specification
 Your program should prompt the user for the following information:
@@ -28,14 +29,20 @@ Finally, it should report the following quantities needed for the garden:
 
 Hint: Solve the problem using paper, pencil and calculator so you understand the problem before trying to program it.
 Sample Run
+
 Calculate Garden requirements
+
 -----------------------------
+
 Enter length of side of garden (feet): 10
 Enter spacing between plants (feet): 0.5
 Enter depth of garden soil (feet): 0.8333
 Enter depth of fill (feet): 0.8333
+
 -----------------------------
+
 Requirements
+
 Plants for each semicircle garden: 39
 Plants for the circle garden: 78
 Total plants for garden: 234
@@ -53,11 +60,13 @@ Enter an integer greater than 2: 20
 3: 1.454
 
 **Question 3**
+
 The factorial of n (written n!) is the product of the integers between 1 and n. Thus 4! = 1*2*3*4 = 24. By definition, 0! = 1. Factorial is not defined for negative numbers.
 (a) Write a program that asks the user for a non-negative integer and computes and prints the factorial of that integer. You'll need a while loop to do most of the work—this is a lot like computing a sum, but it's a product instead. And you'll need to think about what should happen if the user enters 0.
 (b) Now modify your program so that it checks to see if the user entered a negative number. If so, the program should print a message saying that a nonnegative number is required and ask the user the enter another number. The program should keep doing this until the user enters a nonnegative number, after which it should compute the factorial of that number. Hint: you will need another while loop before the loop that computes the factorial. You should not need to change any of the code that computes the factorial!
 
 **Question 4**
+
 Write a program that prompts the user to enter a point (x, y) and checks whether the point is within the rectangle centered at (0, 0) with width 10 and height 5. For example, (2, 2) is inside the rectangle and (6, 4) is outside the rectangle, as shown in the Figure. 
 <img width="386" alt="Screenshot 2024-09-18 at 7 47 41 PM" src="https://github.com/user-attachments/assets/a11e3e98-f47b-466e-a774-b1a982242af7">
 
@@ -73,6 +82,7 @@ Enter a point with two coordinates: 6, 4
 Point (6.0, 4.0) is not in the rectangle
 
 **Question 5**
+
 A teacher wants a program to keep track of grades for students and decides to create program as follows:
 Each student will be described by three pieces of data: his/her name, his/her score on test #1, and his/her score on test#2.
 The teacher must enter the class size such as 5 students 
