@@ -3,6 +3,7 @@ from unittest.mock import patch
 import pytest
 
 def test_garden_requirements(capfd):
+    import Question1
     # Patch input to simulate user input
     inputs = iter([16, 2, 1, 0.5])
     
